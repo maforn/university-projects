@@ -7,6 +7,12 @@
 # Computer Science Projects @ University of Bologna
 This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
 
+### [Machine Learning Competitive Projects - Introduction to Artificial Intelligence, Gen - Feb 2025](https://github.com/maforn/competitiveProjectsML)
+Machine Learning projects for the competitive AI course. Both are on mixed image separation, one is about classification, the other is instead about reconstruction.
+
+### [MEMEAirlines - Databases, Gen 2025](https://github.com/maforn/MEMEAirlines)
+A structured database analysis and design project covering requirement analysis, conceptual and logical design, normalization, and SQL implementation. It includes ER modeling, data dictionary, business rules, and testing to ensure a well-structured MySQL database integrated with Vue.js and Node.js.
+
 ### [Backgammon Social Site - Software Engineering, Oct - Dec 2024](https://github.com/maforn/BackgammonSocialSiteSWE)
 This project serves as a practical exercise in applying SCRUM and AGILE methodologies by developing a web application for online backgammon. It supports gameplay between two players or a player versus an intelligent agent (bot).  Built with Vue.js, TypeScript, Tailwind, and Python (FastAPI), WebAssembly. It makes great use of CI/CD and DevOps with Docker and SonarQube.
 
