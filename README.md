@@ -36,5 +36,5 @@ The project includes several levels, enemies, power-ups and a market.
 First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
 
 # General Projects @ Collegio Superiore
-### [Grasshopper Simulator, Collective and Distributed Intelligence, Jul 2023](https://github.com/maforn/grasshopperSimulator)
+### [Grasshopper Simulator - Collective and Distributed Intelligence, Jul 2023](https://github.com/maforn/grasshopperSimulator)
 Grasshopper Simulator is a Python simulation made with pygame that emulates how grasshoppers with and without the ability to react to aggregation pheromones would live in a simulated environment
