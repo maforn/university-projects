@@ -36,5 +36,8 @@ The project includes several levels, enemies, power-ups and a market.
 First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
 
 # General Projects @ Collegio Superiore
+### [WhatsApp Network Analysis - Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
+A project to analyze a WhatsApp Chat as Network based on the messages. We parsed a text-exported chat log, buildt a directed “message-response” graph, applied community detection (Louvain method), computed centrality metrics, and visualized both the network structure and community statistics.
+
 ### [Grasshopper Simulator - Collective and Distributed Intelligence, Jul 2023](https://github.com/maforn/grasshopperSimulator)
 Grasshopper Simulator is a Python simulation made with pygame that emulates how grasshoppers with and without the ability to react to aggregation pheromones would live in a simulated environment
