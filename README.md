@@ -36,6 +36,9 @@ The project includes several levels, enemies, power-ups and a market.
 First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
 
 # General Projects @ Collegio Superiore
+### [SLAM 3D Local Simulation - Sustainable Air Mobility, Sep 2025](https://github.com/maforn/slam-3d-local-simulation)
+A Python-based 3D simulator for a SLAM (Simultaneous Localization and Mapping) loop-closure algorithm. The simulation incorporates drift and sensor noise, performs local optimization, and visualizes the resulting errors and views.
+
 ### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence, Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
 A project to analyze a WhatsApp Chat as Network based on the messages. We parsed a text-exported chat log, buildt a directed “message-response” graph, applied community detection (Louvain method), computed centrality metrics, and visualized both the network structure and community statistics.
 
