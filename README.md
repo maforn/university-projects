@@ -42,5 +42,9 @@ A Python-based 3D simulator for a SLAM (Simultaneous Localization and Mapping) l
 ### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence, Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
 A project to analyze a WhatsApp Chat as Network based on the messages. We parsed a text-exported chat log, buildt a directed “message-response” graph, applied community detection (Louvain method), computed centrality metrics, and visualized both the network structure and community statistics.
 
+### [Digital Simulations of the Antikythera Mechanism - Archimedes: Greek Mathematics and History of European Science, Sep 2024](https://github.com/maforn/digital-antikythera-mechanism)
+ _Part of the presentation for a speech at Cost Action CaLISTA General Meeting 2025_
+This project provides two interactive Python-based simulations of the Antikythera mechanism, an ancient Hellenistic calculatin machine. The simulations (ancient and modern) model the front and back dials, including the Zodiac, Metonic, and Saros cycles.
+
 ### [Grasshopper Simulator - Collective and Distributed Intelligence, Jul 2023](https://github.com/maforn/grasshopperSimulator)
 Grasshopper Simulator is a Python simulation made with pygame that emulates how grasshoppers with and without the ability to react to aggregation pheromones would live in a simulated environment
