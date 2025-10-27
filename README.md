@@ -10,7 +10,7 @@ This is a list of the projects I have worked on so far as part of the Computer S
 ### [Machine Learning Competitive Projects - Introduction to Artificial Intelligence, Gen - Feb 2025](https://github.com/maforn/competitiveProjectsML)
 Machine Learning projects for the competitive AI course. Both are on mixed images separation, one is about classification, the other is instead about reconstruction.
 
-### [MEMEAirlines - Databases, Gen 2025](https://github.com/maforn/MEMEAirlines)
+### [MEMEAirlines - Databases - Gen 2025](https://github.com/maforn/MEMEAirlines)
 A structured database analysis and design project covering requirement analysis, conceptual and logical design, normalization, and SQL implementation. It includes ER modeling, data dictionary, business rules, and testing to ensure a well-structured MySQL database integrated with Vue.js and Node.js.
 
 ### [Backgammon Social Site - Software Engineering, Oct - Dec 2024](https://github.com/maforn/BackgammonSocialSiteSWE)
@@ -36,13 +36,13 @@ The project includes several levels, enemies, power-ups and a market.
 First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
 
 # General Projects @ Collegio Superiore
-### [SLAM 3D Local Simulation - Sustainable Air Mobility, Sep 2025](https://github.com/maforn/slam-3d-local-simulation)
+### [SLAM 3D Local Simulation - Sustainable Air Mobility - Sep 2025](https://github.com/maforn/slam-3d-local-simulation)
 A Python-based 3D simulator for a SLAM (Simultaneous Localization and Mapping) loop-closure algorithm. The simulation incorporates drift and sensor noise, performs local optimization, and visualizes the resulting errors and views.
 
-### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence, Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
+### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence - Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
 A project to analyze a WhatsApp Chat as Network based on the messages. We parsed a text-exported chat log, buildt a directed “message-response” graph, applied community detection (Louvain method), computed centrality metrics, and visualized both the network structure and community statistics.
 
-### [Digital Simulations of the Antikythera Mechanism - Archimedes: Greek Mathematics and History of European Science, Sep 2024](https://github.com/maforn/digital-antikythera-mechanism)
+### [Digital Simulations of the Antikythera Mechanism - Archimedes: Greek Mathematics and History of European Science - Sep 2024](https://github.com/maforn/digital-antikythera-mechanism)
  _Part of the presentation for a speech at Cost Action CaLISTA General Meeting 2025_
 This project provides two interactive Python-based simulations of the Antikythera mechanism, an ancient Hellenistic calculatin machine. The simulations (ancient and modern) model the front and back dials, including the Zodiac, Metonic, and Saros cycles.
 
