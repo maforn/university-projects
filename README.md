@@ -20,7 +20,7 @@ A semester-long lab course consisting of four independent modules, each focused 
 - Machine Learning Security — Attacks on ML models: adversarial techniques with defenses and preprocessing; inference of training data on shadow models without ground truths.  
 - Trusted Execution Environments — .
 
-### [SCION Go Project - Network Security, Oct 2025]([https://github.com/maforn/](https://github.com/maforn/scion-go-netsec-project))
+### [SCION Go Project - Network Security, Oct 2025](https://github.com/maforn/scion-go-netsec-project)
 > [!WARNING]  
 > At the moment, I'm not allowed to make this public.
 
