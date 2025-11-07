@@ -1,11 +1,33 @@
 # University Projects
 🎓 Collection of all my university projects.
 
+- [ETH Zurich](#computer-science-projects--eth-zurich)
 - [University of Bologna](#computer-science-projects--university-of-bologna)
 - [Collegio Superiore of the University of Bologna](#general-projects--collegio-superiore)
 
+# Computer Science Projects @ ETH Zurich
+This is a list of the projects I have worked on so far as part of the Computer Science Master at the ETH Zurich.
+> [!IMPORTANT]  
+> Due to ETH Zurich’s academic regulations, some repositories must remain private to prevent potential plagiarism. Feel free to reach out if you’re interested in any of these topics!
+> 
+### [Information Security Lab - Information Security Lab, Sep - Dec 2025](https://github.com/maforn/information-security-lab-2025)
+> [!WARNING]  
+> At the moment, I'm not allowed to make this public.
+
+A semester-long lab course consisting of four independent modules, each focused on a different area of information security. Every module included a graded practical project:
+- Formal Protocol Verification — Modeling security protocols in Tamarin and verifying their properties using formal methods.  
+- Binary Exploitation — Vulnerability discovery, and attacks with PIE, canaries, ASLR and ret2libc.  
+- Machine Learning Security — Attacks on ML models: adversarial techniques with defenses and preprocessing; inference of training data on shadow models without ground truths.  
+- Trusted Execution Environments — .
+
+### [SCION Go Project - Network Security, Oct 2025]([https://github.com/maforn/](https://github.com/maforn/scion-go-netsec-project))
+> [!WARNING]  
+> At the moment, I'm not allowed to make this public.
+
+A Go-based project for the Network Security course, focusing on the SCION next-generation internet architecture. The main tasks involved implementing a SCION client, completing packet-handling challenges, and developing logic for multi-path selection and evaluation.
+
 # Computer Science Projects @ University of Bologna
-This is a list of the projects I have worked on so far as part of the Computer Science degree at the University of Bologna
+This is a list of the projects I have worked on so far as part of the Computer Science Bachelor at the University of Bologna.
 
 ### [Machine Learning Competitive Projects - Introduction to Artificial Intelligence, Gen - Feb 2025](https://github.com/maforn/competitiveProjectsML)
 Machine Learning projects for the competitive AI course. Both are on mixed images separation, one is about classification, the other is instead about reconstruction.
