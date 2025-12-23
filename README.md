@@ -10,7 +10,7 @@ This is a list of the projects I have worked on so far as part of the Computer S
 > [!IMPORTANT]  
 > Due to ETH Zurich’s academic regulations, some repositories must remain private to prevent potential plagiarism. Feel free to reach out if you’re interested in any of these topics!
 > 
-### [Information Security Lab - Information Security Lab, Sep - Dec 2025](https://github.com/maforn/information-security-lab-2025)
+### [Information Security Labs - Information Security Lab, Sep - Dec 2025](https://github.com/maforn/information-security-lab-2025)
 > [!WARNING]  
 > At the moment, I'm not allowed to make this public.
 
