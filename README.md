@@ -18,7 +18,7 @@ A semester-long lab course consisting of four independent modules, each focused 
 - Formal Protocol Verification — Modeling security protocols in Tamarin and verifying their properties using formal methods.  
 - Binary Exploitation — Vulnerability discovery, and attacks with PIE, canaries, ASLR and ret2libc.  
 - Machine Learning Security — Attacks on ML models: adversarial techniques with defenses and preprocessing; inference of training data on shadow models without ground truths.  
-- Trusted Execution Environments — Exploit side channel attacks to evade TEE limits; attack as an hypervisor client and GPU communication, as well as establish a safe protocol
+- Trusted Execution Environments — Exploit side channel attacks to evade TEE limits; attack (as an hypervisor) client and GPU communication, as well as establish a safe protocol in a TEE.
 
 ### [Firewall Project - Network Security, Nov - Dec 2025](https://github.com/maforn/firewall-netsec-project/)
 > [!WARNING]  
