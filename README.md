@@ -64,13 +64,16 @@ The project includes several levels, enemies, power-ups and a market.
 First six projects of _From Nand to Tetris: Building a Modern Computer From First Principles_.
 
 # General Projects @ Collegio Superiore
-### [SLAM 3D Local Simulation - Sustainable Air Mobility - Sep 2025](https://github.com/maforn/slam-3d-local-simulation)
+### [Kernel-level Hedged Requests via eBPF - Final Thesis, Gen - Mar 2026](https://github.com/maforn/kernel-hedger)
+A zero-overhead, transparent sidecar for UDP Request Hedging built with eBPF/BCC. Bypasses Python GC and Scheduler jitter by handling retries directly in the SoftIRQ context. 
+
+### [SLAM 3D Local Simulation - Sustainable Air Mobility, Sep 2025](https://github.com/maforn/slam-3d-local-simulation)
 A Python-based 3D simulator for a SLAM (Simultaneous Localization and Mapping) loop-closure algorithm. The simulation incorporates drift and sensor noise, performs local optimization, and visualizes the resulting errors and views.
 
-### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence - Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
+### [WhatsApp Network Analysis - Network Theory and Artificial Intelligence, Apr 2025](https://github.com/maforn/whatsapp-network-analysis)
 A project to analyze a WhatsApp Chat as Network based on the messages. We parsed a text-exported chat log, buildt a directed “message-response” graph, applied community detection (Louvain method), computed centrality metrics, and visualized both the network structure and community statistics.
 
-### [Digital Simulations of the Antikythera Mechanism - Archimedes: Greek Mathematics and History of European Science - Sep 2024](https://github.com/maforn/digital-antikythera-mechanism)
+### [Digital Simulations of the Antikythera Mechanism - Archimedes: Greek Mathematics and History of European Science, Sep 2024](https://github.com/maforn/digital-antikythera-mechanism)
  _Part of the presentation for a speech at Cost Action CaLISTA General Meeting 2025_
 This project provides two interactive Python-based simulations of the Antikythera mechanism, an ancient Hellenistic calculatin machine. The simulations (ancient and modern) model the front and back dials, including the Zodiac, Metonic, and Saros cycles.
 
